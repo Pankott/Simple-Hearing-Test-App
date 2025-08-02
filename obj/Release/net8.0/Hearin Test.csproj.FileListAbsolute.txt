@@ -1,0 +1,14 @@
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\bin\Release\net8.0\Hearin Test.exe
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\bin\Release\net8.0\Hearin Test.deps.json
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\bin\Release\net8.0\Hearin Test.runtimeconfig.json
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\bin\Release\net8.0\Hearin Test.dll
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\bin\Release\net8.0\Hearin Test.pdb
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\Hearin Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\Hearin Test.AssemblyInfoInputs.cache
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\Hearin Test.AssemblyInfo.cs
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\Hearin Test.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\Hearin Test.dll
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\refint\Hearin Test.dll
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\Hearin Test.pdb
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\Hearin Test.genruntimeconfig.cache
+C:\Users\Użytkownik\Projekty\Projekty .NET (C#)\Hearin Test\obj\Release\net8.0\ref\Hearin Test.dll
